@@ -5,5 +5,5 @@ Especially, as a korean team, we are interested in Korean DQA system. It is quit
 
 ## Our projects
 - awesome-korean-llm : awesome list of Korean LLM models.
-- KoPrivateGPT : Extension of Langchian, but for advanced Document Q&A system with LLMs. Framework for complex and felxible DQA system.
+- RAGchain : Extension of Langchian, but for advanced Document Q&A system with LLMs. Framework for complex and felxible DQA system.
 - KICE-slayer : Prompt Engineering project for AI student that can sovle KSAT (Korean-SAT, 수능).
