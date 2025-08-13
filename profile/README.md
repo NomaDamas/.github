@@ -1,7 +1,7 @@
 ## Hi! We are NomaDamas 😆
 
-We are non-profit organization for developing Document Q&A system with power of LLMs. 
-Especially, as a korean team, we are interested in Korean DQA system. It is quite hard to build DQA system with other than English, so we need much contirubtions for skillful devs.
+We are AI open-source hacker house backed by Markr AI, located in Seoul, Korea.
+We are young hackers who loves AI & open source projects. 
 
 ## Our projects
 - awesome-korean-llm : awesome list of Korean LLM models.
