@@ -19,7 +19,4 @@ We are young hackers who loves AI & open source projects.
 - [Donggeon Han](https://github.com/Eastsidegunn) : [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG), [RAGChain](https://github.com/Marker-Inc-Korea/RAGchain), [IdolGAN](https://github.com/NomaDamas/IdolGAN), and some other projects...
 - [Doyun Ha](https://github.com/HaD0Yun) : Maintainer of [Oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent?tab=readme-ov-file) and [Oh-my-Codex](https://github.com/Yeachan-Heo/oh-my-codex). Creator of [Gopeak-godot-mcp](https://github.com/HaD0Yun/Gopeak-godot-mcp).
 - [Yongbin Choi](https://github.com/whybe-choi) : Creator of [KoViDoRe](https://github.com/whybe-choi/kovidore-benchmark). Contributor of [mteb](https://github.com/embeddings-benchmark/mteb).
-
-
-## Alumni
 - [Hyunwook Kwon](https://github.com/Hyunwook-Kwon) : [IdolGAN](https://github.com/NomaDamas/IdolGAN). He is graduate student at Sejong University.
