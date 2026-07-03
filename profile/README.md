@@ -27,6 +27,7 @@ Our most-loved public repositories (10+ stars), sorted by popularity.
 | [bananatape](https://github.com/NomaDamas/bananatape) | 149 | Vibe design tool for developers — generate, annotate, edit — with your Codex subscription. |
 | [AutoRAG-Research](https://github.com/NomaDamas/AutoRAG-Research) | 141 | Automate your RAG research. |
 | [god-tibo-imagen](https://github.com/NomaDamas/god-tibo-imagen) | 132 | Python & Node package to use the GPT image 2.0 model via Codex subscription. |
+| [katok](https://github.com/NomaDamas/katok) | 102 | Search kakaotalk conversations with your agents |
 
 > And many other exciting projects! Check out [all of our repositories](https://github.com/orgs/NomaDamas/repositories). 🔥
 
