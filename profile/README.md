@@ -19,7 +19,7 @@ Our most-loved public repositories (10+ stars), sorted by popularity.
 
 | Project | ⭐ Stars | Description |
 | :--- | :---: | :--- |
-| [k-skill](https://github.com/NomaDamas/k-skill) | 6.3k+ | A skill collection for Koreans — SRT/KTX, KakaoTalk, weather, fine dust, law, stocks, KBO, K-League, LCK, patent search, and much more. |
+| [k-skill](https://github.com/NomaDamas/k-skill) | 6.4k+ | A skill collection for Koreans — SRT/KTX, KakaoTalk, weather, fine dust, law, stocks, KBO, K-League, LCK, patent search, and much more. |
 | [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) | 4.9k+ | Open-source framework for RAG evaluation & optimization with AutoML-style automation. _(hosted under Marker-Inc-Korea)_ |
 | [slides-grab](https://github.com/NomaDamas/slides-grab) | 1k | Best harness + editor + linter for generating slides in Claude Code / Codex. An open-source alternative to Claude Design. |
 | [KICE_slayer_AI_Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean) | 531 | An AI that aims for grade 1 on the Korean SAT (수능) Korean-language exam. |
