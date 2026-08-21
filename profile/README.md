@@ -24,10 +24,12 @@ Our most-loved public repositories (10+ stars), sorted by popularity.
 | [slides-grab](https://github.com/NomaDamas/slides-grab) | 1k | Best harness + editor + linter for generating slides in Claude Code / Codex. An open-source alternative to Claude Design. |
 | [KICE_slayer_AI_Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean) | 531 | An AI that aims for grade 1 on the Korean SAT (수능) Korean-language exam. |
 | [awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm) | 479 | Awesome list of Korean Large Language Models. |
-| [katok](https://github.com/NomaDamas/katok) | 246 | Search kakaotalk conversations with your agents |
+| [katok](https://github.com/NomaDamas/katok) | 246 | Search Kakaotalk conversations with your agents |
+| [god-tibo-imagen](https://github.com/NomaDamas/god-tibo-imagen) | 182 | Python & Node package to use the GPT image 2.0 model via Codex subscription. |
+| [CozyClay](https://github.com/NomaDamas/CozyClay) | 169 | Open source previs software in the browser |
 | [bananatape](https://github.com/NomaDamas/bananatape) | 149 | Vibe design tool for developers — generate, annotate, edit — with your Codex subscription. |
 | [AutoRAG-Research](https://github.com/NomaDamas/AutoRAG-Research) | 141 | Automate your RAG research. |
-| [god-tibo-imagen](https://github.com/NomaDamas/god-tibo-imagen) | 132 | Python & Node package to use the GPT image 2.0 model via Codex subscription. |
+
 
 
 > And many other exciting projects! Check out [all of our repositories](https://github.com/orgs/NomaDamas/repositories). 🔥
