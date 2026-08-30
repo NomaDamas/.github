@@ -23,8 +23,8 @@ Our most-loved public repositories (10+ stars), sorted by popularity.
 | [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) | 5.1k+ | Open-source framework for RAG evaluation & optimization with AutoML-style automation. _(hosted under Marker-Inc-Korea)_ |
 | [slides-grab](https://github.com/NomaDamas/slides-grab) | 1.2k | Best harness + editor + linter for generating slides in Claude Code / Codex. An open-source alternative to Claude Design. |
 | [KICE_slayer_AI_Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean) | 531 | An AI that aims for grade 1 on the Korean SAT (수능) Korean-language exam. |
+| [CozyClay](https://github.com/NomaDamas/CozyClay) | 484| Open source previs software |
 | [awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm) | 479 | Awesome list of Korean Large Language Models. |
-| [CozyClay](https://github.com/NomaDamas/CozyClay) | 475| Open source previs software |
 | [katok](https://github.com/NomaDamas/katok) | 246 | Search Kakaotalk conversations with your agents |
 | [god-tibo-imagen](https://github.com/NomaDamas/god-tibo-imagen) | 182 | Python & Node package to use the GPT image 2.0 model via Codex subscription. |
 | [bananatape](https://github.com/NomaDamas/bananatape) | 149 | Vibe design tool for developers — generate, annotate, edit — with your Codex subscription. |
