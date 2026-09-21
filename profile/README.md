@@ -25,7 +25,7 @@ Our most-loved public repositories (10+ stars), sorted by popularity.
 | [CozyClay](https://github.com/NomaDamas/CozyClay) | 700| Open source previs software |
 | [KICE_slayer_AI_Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean) | 531 | An AI that aims for grade 1 on the Korean SAT (수능) Korean-language exam. |
 | [awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm) | 479 | Awesome list of Korean Large Language Models. |
-| [katok](https://github.com/NomaDamas/katok) | 246 | Search Kakaotalk conversations with your agents |
+| [katok](https://github.com/NomaDamas/katok) | 268 | Search Kakaotalk conversations with your agents |
 | [god-tibo-imagen](https://github.com/NomaDamas/god-tibo-imagen) | 182 | Python & Node package to use the GPT image 2.0 model via Codex subscription. |
 | [bananatape](https://github.com/NomaDamas/bananatape) | 149 | Vibe design tool for developers — generate, annotate, edit — with your Codex subscription. |
 | [AutoRAG-Research](https://github.com/NomaDamas/AutoRAG-Research) | 141 | Automate your RAG research. |
