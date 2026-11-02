@@ -15,7 +15,7 @@ We are young hackers who love AI & open source. We ship fast, break things, and 
 
 ## 🚀 Our Projects
 
-Our most-loved public repositories (10+ stars), sorted by popularity.
+Our most-loved public repositories (100+ stars), sorted by popularity.
 
 | Project | ⭐ Stars | Description |
 | :--- | :---: | :--- |
